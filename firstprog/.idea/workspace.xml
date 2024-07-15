@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f35aaea7-a386-4cc4-924f-c9adb4ec1f21" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hPxhVPBEDBqC3WdpvqfbWOIRK8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Accenture.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Array_Assignment.executor": "Run",
+    "Application.Arraylist.executor": "Run",
+    "Application.Arraylist_Assignment.executor": "Run",
+    "Application.Backtracking.executor": "Run",
+    "Application.BitManipulation.executor": "Run",
+    "Application.DNP_ques.executor": "Run",
+    "Application.DivideConquer.executor": "Run",
+    "Application.DoubleLL.executor": "Run",
+    "Application.Hashing.executor": "Run",
+    "Application.LL_JCF.executor": "Run",
+    "Application.LinkedList2.executor": "Run",
+    "Application.Linked_list.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiDimensionalArrays.executor": "Run",
+    "Application.OOPS.executor": "Run",
+    "Application.Patternad.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.Stack.executor": "Run",
+    "Application.Stack2.executor": "Run",
+    "Application.StackB.executor": "Run",
+    "Application.String_assignment.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.function.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/priya/LearningJava/JavaPrograms",
+    "onboarding.tips.debug.path": "C:/Users/priya/LearningJava/firstprog/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Accenture">
+    <configuration name="Accenture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Accenture" />
+      <module name="firstprog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleLL" />
+      <module name="firstprog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
+      <module name="firstprog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack2" />
+      <module name="firstprog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackB" />
+      <module name="firstprog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Accenture" />
+      <item itemvalue="Application.Stack2" />
+      <item itemvalue="Application.DoubleLL" />
+      <item itemvalue="Application.Stack" />
+      <item itemvalue="Application.StackB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Accenture" />
+        <item itemvalue="Application.Stack2" />
+        <item itemvalue="Application.StackB" />
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.DoubleLL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f35aaea7-a386-4cc4-924f-c9adb4ec1f21" name="Changes" comment="" />
+      <created>1717509634517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717509634517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
